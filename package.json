@@ -1,0 +1,21 @@
+{
+  "name": "playwright_minskole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "day1.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhangipawar5/playwright_minskole.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhangipawar5/playwright_minskole/issues"
+  },
+  "homepage": "https://github.com/shubhangipawar5/playwright_minskole#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.37.1"
+  }
+}
